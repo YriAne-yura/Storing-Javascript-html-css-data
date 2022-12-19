@@ -4,7 +4,7 @@ function test() {
 }
 
 function test2() {
-
+    document.getElementById("input").innerHTML = a;
     document.getElementById("hienthirandom").innerHTML = textContent.slice(15);
     
 }
